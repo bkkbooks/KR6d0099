@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6d0099_000.yaml, hash: 'sha256:743714554d3032633e546ad02e8055cb38cd24b652babb96901e9ef7fb8b65d3'}
-  - {seq: 1, filename: KR6d0099_001.yaml, hash: 'sha256:afc7b637e57aba7cd09222137205bfbbb21e52bd615247b83f7e6ef2f3fbd679'}
+  - {seq: 1, filename: KR6d0099_001.yaml, hash: 'sha256:e1ef7476600893f022594c5cbdc1547e04c5e50494d2ae4a02c392b935c41a55'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6d0099_001.markers.yaml, hash: 'sha256:f00bfe49dc4f934f2ea8071c3bbd1c3a2c1d86bbf9dc54f61ffe9cc00eb1e0a1'}
+  - {seq: 0, role: markers, filename: assets/KR6d0099_000.markers.yaml, hash: 'sha256:9c6e4b3fd35e111a74ab086091a850c7acfbea7c9c9f9324f60ca0d0c8e755ef'}
+  - {seq: 1, role: markers, filename: assets/KR6d0099_001.markers.yaml, hash: 'sha256:ce61adb07886b35350e2a135f4df3b1299791e74ebe4b1d7a568b4c945cefd74'}
 table_of_contents:
 - ref:
     seq: 1
@@ -376,7 +377,4 @@ table_of_contents:
   label: 第五通申作意
   type: mulu
   level: 1
-hash: sha256:52f479cdca1d86d823979a49734bbd09c67b6d71c68f006342920f27b2409111
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:1c30380059f423450e4376be6ff66c19fc29c065a56289fe3706eb26e5dc115b
