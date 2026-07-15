@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6d0099/v1
 canonical_location: https://kanripo.org/bkk/KR6d0099/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 法華經為為章
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6d0099_000.yaml, hash: 'sha256:743714554d3032633e546ad02e8055cb38cd24b652babb96901e9ef7fb8b65d3'}
-  - {seq: 1, filename: KR6d0099_001.yaml, hash: 'sha256:e1ef7476600893f022594c5cbdc1547e04c5e50494d2ae4a02c392b935c41a55'}
+  - {seq: 1, filename: KR6d0099_001.yaml, hash: 'sha256:faa1dd02b3e949c1b74ce319ade7a591806331b78dacd92b2c3ef7fc7780a19b'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6d0099_000.markers.yaml, hash: 'sha256:9c6e4b3fd35e111a74ab086091a850c7acfbea7c9c9f9324f60ca0d0c8e755ef'}
-  - {seq: 1, role: markers, filename: assets/KR6d0099_001.markers.yaml, hash: 'sha256:ce61adb07886b35350e2a135f4df3b1299791e74ebe4b1d7a568b4c945cefd74'}
+  - {seq: 1, role: markers, filename: assets/KR6d0099_001.markers.yaml, hash: 'sha256:d38f6e3834ff3869add68d9e7a013f29d461f28502cc8fcfd5a73398c868ce14'}
 table_of_contents:
 - ref:
     seq: 1
@@ -377,4 +377,7 @@ table_of_contents:
   label: 第五通申作意
   type: mulu
   level: 1
-hash: sha256:1c30380059f423450e4376be6ff66c19fc29c065a56289fe3706eb26e5dc115b
+hash: sha256:1a353522d2b9895f2d9b7436ebb31a29cc98e93aa490c02de399b408c09d05c7
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
